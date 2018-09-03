@@ -1,0 +1,102 @@
+*{
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+
+}
+.clearfix{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.main{
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.list{
+	margin-bottom: 50px;
+}
+
+.list-item{
+	padding: 20px;
+	list-style: none;
+}
+
+.list-item:nth-child(odd){
+  background-color: #eee;
+}
+
+.box1{
+	background-color: orange;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box2{
+	background-color: yellow;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box3{
+	background-color: yellow;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+	/*margin-right: 5%;*/
+	float: left;
+}
+.box4{
+	background-color: yellow;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box5{
+	background-color: orange;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box6{
+	background-color: yellow;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+/*	margin-right: 5%;
+*/	float: left;
+}
+.box7{
+	background-color: yellow;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box8{
+	background-color: yellow;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+	margin-right: 5%;
+	float: left;
+}
+.box9{
+	background-color: orange;
+	width: 30%;
+	height: 200px;
+	margin-bottom: 40px;
+/*	margin-right: 5%;
+*/	float: left;
+}
